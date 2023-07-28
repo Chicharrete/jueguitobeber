@@ -48,9 +48,9 @@ retos = [
     "Ve al jardín o al balcón y realiza una declaración de amor ficticia a un objeto inanimado",
     "Inventate una historia absurda y divertida sobre alguien en el grupo y léela en voz alta, tienes un minuto",
     "Un turno entero hablando solo con frases de canciones",
-    "Envía un mensaje de texto a un familiar o amigo diciendo que estás \"pensando en ellos\" sin ninguna explicación"
+    "Envía un mensaje de texto a un familiar o amigo diciendo que estás \"pensando en ellos\" sin ninguna explicación",
     "Todo el que no este en el grupo de WhatsApp tiene que estar callado durante 2 turnos",
-    "Haz un discurso improvisado sobre por qué deberías ser coronado Rey de las (a elegir por el grupo)"
+    "Haz un discurso improvisado sobre por qué deberías ser coronado Rey de las (a elegir por el grupo)",
 ]
 
 preguntas_realizadas = []  # Lista para evitar preguntas repetidas
